@@ -4,15 +4,15 @@ Tenho 25 anos, Cientista de dados em instituições financeiras. Experiência co
 
 Ferramentas/Linguagens utilizadas: Python, DataBricks, Excel, VBA, Power BI/DAX, Power Query, Denodo/VQL, SQL, SAS, R, Power Apps/Automate, AWS, Athena, SageMaker. Git/GitHub
 
-● Economista (UFPR)
+● Economista (UFPR) 💰
 
-● MBA Data Science (USP)
+● MBA Data Science (USP) 📈
 
-● Especialista em Investimentos Anbima (CEA)
+● Especialista em Investimentos Anbima (CEA) 
 
 ● Trabalhos Voluntários em consultorias, análise de dados e educação financeira.
 
-● Cientista de Dados Pleno (Itaú Unibanco)
+● Cientista de Dados Pleno (Itaú Unibanco) 🏦
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-de-lima-morais/)
